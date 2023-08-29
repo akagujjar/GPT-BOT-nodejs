@@ -10,3 +10,4 @@ For smoother development, you can globally install the "nodemon" package by exec
 
 Please make sure to replace the placeholder key in the .env file with your actual key before using the application.
 
+![Screenshot 2023-08-29 at 10 59 56 AM](https://github.com/akagujjar/GPT-BOT-nodejs/assets/104793295/28ddeca4-3612-4f2c-9ff9-4c35801e118f)
